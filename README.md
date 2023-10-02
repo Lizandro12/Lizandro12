@@ -1,4 +1,4 @@
-### Olá eu sou o Slandio Soares Desenvolvedor Front-End✌️
+### Olá, eu sou o Slandio Soares Desenvolvedor Front-End✌️
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244933286521)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slandio__soares/)
