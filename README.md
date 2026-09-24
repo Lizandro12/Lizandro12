@@ -67,9 +67,9 @@ Tenho experiência no desenvolvimento de interfaces com **Vue.js e Nuxt.js**, in
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=slandiosoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lizandro12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slandiosoares&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizandro12&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
