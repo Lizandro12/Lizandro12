@@ -1,25 +1,26 @@
-# Olá, eu sou Slandio Soares 👋
+# Hi, I'm Slandio Soares 👋
 
 ### Software Developer | Vue.js • Nuxt.js • TypeScript
 
-Sou Desenvolvedor de Software focado na construção de aplicações web modernas, responsivas e orientadas à experiência do utilizador.
+I'm a Software Developer focused on building modern, responsive, and user-centered web applications.
 
-Tenho experiência no desenvolvimento de interfaces com **Vue.js e Nuxt.js**, integração com **APIs RESTful**, desenvolvimento de aplicações no ecossistema Vue e criação de interfaces a partir de protótipos no **Figma**.
+I have experience developing interfaces with **Vue.js and Nuxt.js**, integrating frontend applications with **RESTful APIs**, building applications within the Vue ecosystem, and translating **Figma** prototypes into functional interfaces.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 💻 Desenvolvedor de Software com experiência profissional em aplicações web
-- 🎯 Foco atual: **Software Engineering com Vue.js e Nuxt.js**
-- 🎨 Experiência com **UI/UX e Figma**
-- 🔌 Experiência na integração de aplicações Frontend com **APIs RESTful**
-- 🧩 Interesse em **arquitetura de software, qualidade de código e desenvolvimento de produtos**
+- 💻 Software Developer with professional experience building web applications
+- 🎯 Current focus: **Software Engineering with Vue.js and Nuxt.js**
+- 🎨 Experience with **UI/UX and Figma**
+- 🔌 Experience integrating frontend applications with **RESTful APIs**
+- 🧩 Interested in **software architecture, code quality, and product development**
+- 📚 Currently deepening my knowledge of **TypeScript and Frontend Engineering**
 - 📍 Angola
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <table>
 <tr>
@@ -75,9 +76,9 @@ Tenho experiência no desenvolvimento de interfaces com **Vue.js e Nuxt.js**, in
 
 ---
 
-## 🤝 Vamos conectar?
+## 🤝 Let's Connect
 
-Estou aberto a oportunidades, projetos e conexões com profissionais da área de tecnologia.
+I'm open to opportunities, projects, and connections with other professionals in the tech industry.
 
 <div align="left">
 
