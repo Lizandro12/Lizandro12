@@ -39,7 +39,6 @@ I have experience developing interfaces with **Vue.js and Nuxt.js**, integrating
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs">
 <br><br>
-<strong>REST APIs</strong>
 </td>
 
 <td align="center" width="25%">
