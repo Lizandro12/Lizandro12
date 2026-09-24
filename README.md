@@ -37,7 +37,7 @@ I have experience developing interfaces with **Vue.js and Nuxt.js**, integrating
 <td align="center" width="25%">
 <h3>Backend</h3>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,laravel">
+<img src="https://skillicons.dev/icons?i=nodejs">
 <br><br>
 <strong>REST APIs</strong>
 </td>
@@ -61,18 +61,6 @@ I have experience developing interfaces with **Vue.js and Nuxt.js**, integrating
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lizandro12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizandro12&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
